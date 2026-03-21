@@ -1,0 +1,40 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1773890177160,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5fgQWiVnmO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "prepusioletal",
+      "uniqueId": "26bb3ed0-3384-367b-8c7c-d470b0b2e256"
+    },
+    "time": 1773882498604,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/gH74LC5vbL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "prepusioletal",
+      "uniqueId": "26bb3ed0-3384-367b-8c7c-d470b0b2e256"
+    },
+    "time": 1773282031682,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/r3637EUww8"
+    }
+  }
+]

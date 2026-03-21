@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "26bb3ed0-3384-367b-8c7c-d470b0b2e256",
+    "name": "prepusioletal",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7af28142-c0eb-37db-8fdc-b4bd5f61c79c",
+    "name": "chatetas",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
